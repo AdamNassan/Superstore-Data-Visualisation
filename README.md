@@ -105,28 +105,3 @@ The dashboard includes explanatory content and helper text to reduce ambiguity:
 3. Hover over marks and KPI cards to view detailed tooltips and context.
 4. Review highlighted elements for quick, decision-relevant insights.
 
-Notes:
-- Data refresh frequency and last refresh time are included in the annotation area of the dashboard.
-- "Profit Ratio" is defined in the dashboard annotations; check helper text for exact formula.
-
-## 📂 Project Files
-
-(Place project files and the dataset in the project resources directory.)
-
-- Tableau workbook(s)
-- Superstore dataset (CSV / packaged extract)
-- Dashboard assets (images, icons)
-
-## 📬 Contact / Credits
-
-Created by Adam Nassan. For questions about the dashboard logic or to request additional metrics, open an issue or contact the project owner.
-
----
-
-Summary: This README provides a concise executive overview of the Superstore Performance Dashboard, instructions for use, and the design rationale. If you'd like, I can also:
-
-- Add a small README badge or a short GIF demo
-- Include sample screenshots in an `assets/` folder
-- Add a `data/` folder with the exact dataset used and a brief ETL note
-
-Tell me which of the extras you want and I will add them.
